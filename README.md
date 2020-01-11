@@ -1,5 +1,5 @@
 # Password Guesser
-###### Simple tool to guess a password using a dictionary attack, followed by a brute-force attack
+###### Simple tool to guess a password using a dictionary attack, followed by a brute-force attack.
 
 **Not intended for use as an actual password cracker. Please consult Wheaton's Rule for further reference.**
 
