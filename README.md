@@ -3,6 +3,8 @@
 
 **Not intended for use as an actual password cracker. Please consult Wheaton's Rule for further reference.**
 
+![Image of script in action](screenshot.png)
+
 This program takes a user-provided plain-text password, then tries to guess it by first running it through a dictionary of the most common passwords. If this fails, it then begins a randomised alphanumeric brute-force attack.
 
 Due to the sheer number of possible alphanumeric combinations, the brute force method is not recommended due to how long it takes. For example, in using this program's character sample, there would be 43,595,145,594 possible combinations just for an 8-digit password.
